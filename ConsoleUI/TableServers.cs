@@ -15,7 +15,7 @@ namespace ConsoleUI
         private TableServers()
         {
             servers.Add("Tim");
-            servers.Add("Sue");
+            servers.Add("Suezee");
             servers.Add("Mary");
             servers.Add("Bob");
         }
